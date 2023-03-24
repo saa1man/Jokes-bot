@@ -14,7 +14,7 @@ You can try the telegram bot by following this [link](https://t.me/Just4jokes_bo
 
 1. Clone this repository: git clone https://github.com/saa1man/Jokes-bot.git
 2. Install the required packages: pip install -r requirements.txt
-3. Add your bot token to `BOT_TOKEN` at main.py
+3. Set your bot token as an env variable: $ export BOT_TOKEN=YOUR_BOT_TOKEN
 4. Run the bot: python main.py
 
 ## Usage
